@@ -46,5 +46,5 @@ git config core.sshCommand "ssh -i ~/.ssh/user-private-key -o IdentitiesOnly=yes
 - `git remote -v` - просмотр списка удаленных репозиториев.
 - `git push origin master` - отправка изменений на удаленный репозиторий под именем origin в ветку master.
 
-Более подробную информацию можно найти в [документации Git](https://git-scm.com/docs/git-remote).
+Более подробную информацию можно найти в [документации Git](https://git-scm.com/docs/git-remote)
 
